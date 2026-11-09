@@ -1,9 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+  // Auth + Supabase cookie reads are request-time; keep classic dynamic rendering.
   turbopack: {
     rules: {
       "*.css": {

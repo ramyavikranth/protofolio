@@ -1,0 +1,8 @@
+PASTE_PUBLIC_LOOM_OR_YOUTUBE_URL_HERE
+
+Talking points (3–5 minutes):
+1. Sign in as owner@folio.test — create a doc, show formatting, Save, refresh.
+2. Import fixtures/sample-notes.md — note .txt/.md only.
+3. Share with viewer@folio.test — sign in as viewer — show Shared with you.
+4. Call out intentional cuts: no realtime, no comments, no version history, no DOCX.
+5. Mention stack (Next.js, TipTap, Supabase, Vercel) and AI usage (Cursor sped scaffolding; rejected over-scope).
