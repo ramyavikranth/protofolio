@@ -4,13 +4,13 @@
 Built a lightweight collaborative document editor inspired by Google Docs, scoped as **Folio**: create/edit, `.txt`/`.md` import, ownership + sharing, and Supabase persistence.
 
 ## Live Application
-[Paste deployed application URL]
+https://documentcreation-drab.vercel.app
 
 ## Source Code
-[Paste GitHub repository URL]
+https://github.com/ramyavikranth/protofolio
 
 ## Google Drive Deliverables
-[Paste Google Drive folder URL]
+https://drive.google.com/drive/folders/1tORNJ0lJc1-XBXG8QhGlqtpz1w4BhfJT?usp=sharing
 
 ## Features Implemented
 - Create, edit, rename, and save documents.
@@ -53,6 +53,9 @@ Prioritized the essential document lifecycle, persistence, file import, and shar
 - Import limited to `.txt` and `.md` (not `.docx`).
 - Share targets must already have Folio accounts.
 - Demo login works best with Supabase email confirmation disabled.
+
+## Walkthrough Video
+https://www.loom.com/share/31eb8d41199f4ff1bc7260a10599fb89
 
 ## Future Improvements
 - Real-time collaborative editing.

@@ -14,21 +14,21 @@ Candidate: Ramyakrishna Vandanapu (ramya.vandanapu25@gmail.com)
 - [x] `supabase/migrations/001_initial.sql` — schema + RLS
 - [x] Automated test: `src/lib/import-file.test.ts` (`npm test`)
 - [x] Sample import file: `fixtures/sample-notes.md`
-- [ ] Live product URL — fill after Vercel deploy
-- [ ] Google Drive folder URL — fill after upload
-- [ ] GitHub repository URL — fill after push
+- [x] Live product URL — https://documentcreation-drab.vercel.app
+- [x] Google Drive folder URL — https://drive.google.com/drive/folders/1tORNJ0lJc1-XBXG8QhGlqtpz1w4BhfJT?usp=sharing
+- [x] GitHub repository URL — https://github.com/ramyavikranth/protofolio
 
 ## Live application
 
-[Paste deployed Vercel URL]
+https://documentcreation-drab.vercel.app
 
 ## Source code
 
-[Paste GitHub repository URL]
+https://github.com/ramyavikranth/protofolio
 
 ## Google Drive deliverables
 
-[Paste Google Drive folder URL]
+https://drive.google.com/drive/folders/1tORNJ0lJc1-XBXG8QhGlqtpz1w4BhfJT?usp=sharing
 
 ## Features implemented
 
@@ -99,11 +99,12 @@ See `ARCHITECTURE.md`. Prioritized document lifecycle, persistence, import, and 
 
 ## What is incomplete / limited
 
-- Live URL / Drive / video links pending final deploy + recording steps
+- Walkthrough video URL still pending in `WALKTHROUGH_URL.txt`
 - No realtime multiplayer editing
 - No `.docx` import
 - No version history or comments
 - Email confirmation must be disabled (or emails confirmed) for instant demo login
+- Profile display-name editing is supported; password change is not in-app
 
 ## What I would build next (2–4 hours)
 
@@ -114,4 +115,6 @@ See `ARCHITECTURE.md`. Prioritized document lifecycle, persistence, import, and 
 
 ## Walkthrough video
 
-See `WALKTHROUGH_URL.txt`.
+https://www.loom.com/share/31eb8d41199f4ff1bc7260a10599fb89
+
+Also stored in `WALKTHROUGH_URL.txt`.
